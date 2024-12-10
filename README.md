@@ -1,6 +1,9 @@
 # NL-Project
 Natural Language Project Code
 
+Main file: `ReccursiveTrainT5.ipynb`
+
+Data Analysis Code: `ethan\model_test.ipynb`
 
 OPUS Dataset: [This is the first data-set we will use][opus-books]
 
